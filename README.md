@@ -1,5 +1,4 @@
-# Machine Learning Engineer Nanodegree - Capstone Project 
-## Algorithm-based Estimate: An Alternate Approach of Construction Cost Prediction in Early Stage of Design
+Algorithm-based Estimate: An Alternate Approach of Construction Cost Prediction in Early Stage of Design
 
 ## Project Overview
 

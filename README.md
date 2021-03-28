@@ -1,5 +1,7 @@
 # Algorithm-based Estimate: An Alternate Approach of Construction Cost Prediction in Early Stage of Design
 
+Project Video: https://www.youtube.com/watch?v=XObJYuv9yhQ
+
 ## Project Overview
 
 I am proposing an algorithm-based solution for cost estimating in the Architecture, Engineering, and Construction (AEC) industry. There are two major approaches nowadays for a preconstruction team to complete estimates after receiving design packages. The first one is to dig into the drawing details and build up all the estimate items line by line, and the second one is to generate a Rough Order of Magnitude (ROM) estimate by selecting comparable projects from the project database and simply averaging their costs. The detailed estimate is much more accurate and yet more time-consuming. On the other hand, one can create a high-level estimate in a considerably short amount of period with less confidence, however.

@@ -1,6 +1,6 @@
 # Algorithm-based Estimate: An Alternate Approach of Construction Cost Prediction in Early Stage of Design
 
-Project Video: https://www.youtube.com/watch?v=XObJYuv9yhQ
+Project Video (15 min.): https://www.youtube.com/watch?v=XObJYuv9yhQ
 
 ## Project Overview
 

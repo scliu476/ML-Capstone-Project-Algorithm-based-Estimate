@@ -1,6 +1,9 @@
 # Algorithm-based Estimate: An Alternate Approach of Construction Cost Prediction in Early Stage of Design
 
-Project Video (15 min.): https://www.youtube.com/watch?v=XObJYuv9yhQ
+## AI in AEC Conference, 2021
+* Presentation Video (15 min.): https://www.youtube.com/watch?v=XObJYuv9yhQ
+* Event Page: https://www.ril.fi/en/events/ai-in-aec-2021.html
+* Speaker Profile: https://aiaec2021.exordo.com/programme/presentation/99
 
 ## Project Overview
 
